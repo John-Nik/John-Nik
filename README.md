@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-19610
-Fork on GitHub
-5886
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hello, My name is Giannis Nikolaou</h1>
 <h3 align="center">I am a front-end developer, who wants to learn more about as much as possible. I am currently on the road towards learning the backend side of applications and sites</h3>
 
