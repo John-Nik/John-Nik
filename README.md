@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=john-nik&label=Profile%20views&color=0e75b6&style=flat" alt="john-nik" /> </p>
 
-- I’m currently learning **python, and later on django**
+- I’m currently learning **php, later on python**
 
 - All of my projects are available at [john-nik.com](john-nik.com)
 
